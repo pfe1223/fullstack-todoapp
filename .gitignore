@@ -1,0 +1,5 @@
+# Ignore modules in the fullstack-todoapp directory
+/node_modules/
+
+# Ignore modules in the client directory
+/client/node_modules/
